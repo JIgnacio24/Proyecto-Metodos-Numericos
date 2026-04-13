@@ -1,7 +1,3 @@
-Proyecto-Metodos-Numericos
-
-
-```md
 # Proyecto de Métodos Numéricos
 
 Proyecto desarrollado en **MATLAB** para aplicar y comparar distintos métodos numéricos clásicos en la aproximación de raíces, derivación numérica e interpolación.
@@ -21,7 +17,3 @@ El programa presenta un menú interactivo que permite ejecutar diferentes algori
 ### 2. Derivación numérica
 
 ### 3. Interpolación de Lagrange
-
-## Archivo principal
-
-
