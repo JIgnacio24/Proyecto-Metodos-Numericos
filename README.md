@@ -1,4 +1,4 @@
-#Proyecto-Metodos-Numericos
+Proyecto-Metodos-Numericos
 
 
 ```md
@@ -24,5 +24,4 @@ El programa presenta un menú interactivo que permite ejecutar diferentes algori
 
 ## Archivo principal
 
-```text
-Proyecto_Metodos_Aprox.m
+
