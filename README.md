@@ -1,6 +1,5 @@
-#`Proyecto-Metodos-Numericos`
+#Proyecto-Metodos-Numericos
 
-Aquí sí se ve claro el contenido: es un script de MATLAB con menú principal y tres bloques funcionales, incluyendo comparación entre Bisección, Newton, Secante y Punto Fijo, además de derivación numérica e interpolación de Lagrange. :contentReference[oaicite:3]{index=3}
 
 ```md
 # Proyecto de Métodos Numéricos
